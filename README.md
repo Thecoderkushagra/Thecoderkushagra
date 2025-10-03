@@ -9,36 +9,37 @@ Always curious, always shipping.
 
 ## 🛠️ Tech Stack & Tools  
 
-<p align=center>
+<p>
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
   <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="50" alt="Maven" />
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-microservices-devops-flaticons-lineal-color-flat-icons.png" height="50" alt="Microservices" />
 
-  <br><br><br>
+</p>
 
+<p>
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" />
+</p>
 
-  <br><br><br>
-  
+<p>
   <!-- Messaging / Search -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="50" alt="ElasticSearch" />
+</p>
 
-  <br><br><br>
-
+<p>
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="GitHub Actions" />
+</p>
 
-  <br><br><br>
-  
+<p>  
   <!-- AI & Automation -->
   <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="50" alt="OpenAI" />
   <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="50" alt="n8n" />
