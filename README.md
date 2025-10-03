@@ -9,7 +9,7 @@ Always curious, always shipping.
 
 ## 🛠️ Tech Stack & Tools  
 
-<p>
+<p align=center>
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
@@ -66,7 +66,7 @@ Always curious, always shipping.
 
 ## 🌐 Let’s Connect  
 
-<p>
+<p align=center>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/></a>
 </p>
