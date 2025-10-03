@@ -13,8 +13,6 @@ Always curious, always shipping.
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
-  <img src="https://static-00.iconduck.com/assets.00/maven-icon-512x256-8nqpcyc3.png" height="50" alt="Maven" />
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-microservices-devops-flaticons-lineal-color-flat-icons.png" height="50" alt="Microservices" />
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
@@ -28,7 +26,6 @@ Always curious, always shipping.
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="GitHub Actions" />
 
   <!-- AI & Automation -->
