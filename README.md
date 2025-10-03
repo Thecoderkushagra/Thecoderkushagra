@@ -9,27 +9,27 @@ Always curious, always shipping.
 
 ## 🛠️ Tech Stack & Tools  
 
-<p align="center">
+<p>
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
   <img src="https://maven.apache.org/images/maven-logo-black-on-white.png" height="50" alt="Maven" />
   <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-microservices-devops-flaticons-lineal-color-flat-icons.png" height="50" alt="Microservices" />
 
-  <br>
+  <br><br><br>
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" />
 
-  <br>
+  <br><br><br>
   
   <!-- Messaging / Search -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="50" alt="ElasticSearch" />
 
-  <br>
+  <br><br><br>
 
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
@@ -37,7 +37,7 @@ Always curious, always shipping.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="GitHub Actions" />
 
-  <br>
+  <br><br><br>
   
   <!-- AI & Automation -->
   <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="50" alt="OpenAI" />
@@ -66,7 +66,7 @@ Always curious, always shipping.
 
 ## 🌐 Let’s Connect  
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/></a>
   <a href="mailto:YOUR_EMAIL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/></a>
 </p>
