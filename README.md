@@ -1,4 +1,4 @@
-# 👋 Hey, I’m [Your Name]  
+# 👋 Hey, I’m Kushagra  
 
 🚀 **Aspiring Java Backend Developer** | 💻 Passionate about scalable systems | ⚡ Exploring AI & Automation  
 
@@ -13,8 +13,8 @@ Always curious, always shipping.
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" height="50" alt="Maven" />
-  <img src="https://skillicons.dev/icons?i=microservices" height="50" alt="Microservices" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_G6dRMpkhrmovVpOgw8jGhqwZ09Fizun85g&s)" height="50" alt="Maven" />
+  <img src="[https://skillicons.dev/icons?i=microservices](https://www.google.com/imgres?q=maven&imgurl=https%3A%2F%2Fmiro.medium.com%2F1*kbSGIVukG6lL7JtAa9wiDA.png&imgrefurl=https%3A%2F%2Fblog.devops.dev%2Fdevops-lab-1-installing-apache-maven-and-deploying-a-java-application-8c5061bd9b99&docid=o2Q2u0NRSkydwM&tbnid=uM0QLVei854N3M&vet=12ahUKEwiTudSpoYiQAxWCS2wGHc9kMKgQM3oECBgQAA..i&w=450&h=450&hcb=2&ved=2ahUKEwiTudSpoYiQAxWCS2wGHc9kMKgQM3oECBgQAA)" height="50" alt="Microservices" />
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
@@ -41,8 +41,8 @@ Always curious, always shipping.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Thecoderkushagra&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thecoderkushagra&theme=radical" height="180" />
 </p>
 
 ---
