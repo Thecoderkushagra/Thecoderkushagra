@@ -1,62 +1,57 @@
-# 👋 Hey, I’m Kushagra  
+### Hey, I'm Kushagra 👋
 
-🚀 **Aspiring Java Backend Developer** | 💻 Passionate about scalable systems | ⚡ Exploring AI & Automation  
+```java
+public class AboutMe {
+    String role               = "Backend Engineer";
+    String focus              = "Distributed Systems, Concurrency & JVM Internals";
+    String[] currentObsession = { "Virtual Threads", "Storage Engines", "RAG Pipelines" };
+    boolean lovesCode         = true;
+}
+```
 
-I build robust **Java + Spring Boot** applications, experiment with **microservices**, and love integrating modern tools for real-world projects.  
-Always curious, always shipping.  
+I spend most of my time designing backend systems, exploring concurrency models, and figuring out what happens under the hood when frameworks abstract away the complexity. Rather than just wiring APIs, I enjoy digging into database indexing, thread schedulers, and event-driven patterns.
 
 ---
 
-## 🛠️ Tech Stack & Tools  
+### 🔬 What I'm Tinkering With
 
-<p align="center">
-  <!-- Core -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50" alt="Spring Boot" />
+- **Modern Concurrency & the JVM:** Benchmarking Java 21+ Virtual Threads, latency profiles under high I/O workloads, and GraalVM native images.
+- **Storage & Retrieval Internals:** Experimenting with how databases handle persistence, b-trees, and vector indexing (pgvector / hybrid search mechanics).
+- **Event-Driven Architectures:** Designing resilient pipelines with Kafka, distributed caches (Redis), and Elasticsearch.
+- **Applied AI / Search:** Moving beyond basic API wrappers to build contextual code search, vector RAG, and automated ingest pipelines.
 
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="50" alt="Redis" />
+---
 
-  <!-- Messaging / Search -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="50" alt="Kafka" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" height="50" alt="ElasticSearch" />
+### 🛠️ Core Engineering Stack
 
-  <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="50" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="50" alt="GitHub Actions" />
+```
+Runtime & Languages   │ Java (21+), SQL, exploring low-level systems
+Backend Frameworks    │ Spring Boot, Spring AI, Hibernate/JPA, RESTful APIs
+Data & Storage        │ PostgreSQL (pgvector), Redis, MongoDB, Elasticsearch
+Message & Streaming   │ Apache Kafka, Event-Driven Architecture
+DevOps & Tooling      │ Docker, GitHub Actions, Linux / Bash, Git
+```
 
-  <!-- AI & Automation -->
-  <img src="https://avatars.githubusercontent.com/u/14957082?s=200&v=4" height="50" alt="OpenAI" />
-  <img src="https://avatars.githubusercontent.com/u/45487711?s=200&v=4" height="50" alt="n8n" />
+---
+
+### 💡 Engineering Principles I Build By
+
+- **Write boring, readable code:** Clever code is hard to debug at 2 AM.
+- **Understand the abstraction:** If a framework makes something a one-line annotation, know what 100 lines it is hiding.
+- **Measure before optimizing:** Premature optimization wastes time; profilers and logs don't lie.
+
+---
+
+### 📊 GitHub Activity
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thecoderkushagra&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thecoderkushagra&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" height="150" />
 </p>
 
-
 ---
 
-## 📊 GitHub Stats  
+### 📬 Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thecoderkushagra&show_icons=true&theme=radical" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Thecoderkushagra&theme=radical" height="180" />
-</p>
-
----
-
-## 🌟 Featured Highlights  
-
-- 🔥 Hands-on with **Java + Spring Boot** full-stack projects  
-- ⚡ Exploring **distributed systems, Kafka, Redis, Elastic stack**  
-- 🤖 Automating workflows with **n8n + OpenAI**  
-- 📦 Containerized deployments with **Docker & Kubernetes**  
-
----
-
-## 🌐 Let’s Connect  
-
-<p align=center>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn"/></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Email"/></a>
-</p>
+- **LinkedIn:** [linkedin.com/in/thecoderkushagra](https://linkedin.com/in/thecoderkushagra)  
+- **Email:** `thecoderkushagra@gmail.com`
