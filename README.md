@@ -54,4 +54,4 @@ DevOps & Tooling      │ Docker, GitHub Actions, Linux / Bash, Git
 ### 📬 Connect
 
 - **LinkedIn:** [linkedin.com/in/thecoderkushagra](https://linkedin.com/in/thecoderkushagra)  
-- **Email:** `thecoderkushagra@gmail.com`
+- **Email:** `officialkushagra241004@gmail.com`
